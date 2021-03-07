@@ -20,8 +20,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Charles J. Lin                                
-your_link                                 : https://gsphoto.solomic.com                    
-your_city                                 : Boulder, CO                              
+your_link                                 : mailto:help.gsphoto@gmail.com                    
+your_city                                 :                           
 email_address                             : help.gsphoto@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Smart Address
+    description                           : No need to type in address. The App provides address using GPS automagically!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Timely Upload
+    description                           : Uploading photos to your Google Drive as soon as they are taken.
+    fontawesome_icon_name                 : stopwatch
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Battery Saver
+    description                           : No backgrounds tasks that drain your device battery
+    fontawesome_icon_name                 : battery-three-quarters
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
