@@ -9,7 +9,7 @@ March 1, 2021
 
 # Privacy Policy
 
-GSPhoto is provided by Charles J. Lin and is intended for use as is.
+GSPhoto is provided by Solomic, LLC and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my application.
 
