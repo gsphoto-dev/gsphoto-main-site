@@ -14,6 +14,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-Real estate professional, house hunters or anyone wants to use Google Drive for digital photo storage: have you spent too much time organizing those photos? This is the app for you!
-
+#### Save photo directly to Google Drive
+#### Choose the folder for your photos
+#### Automatically provide address information in file names (or not)
 <br>
