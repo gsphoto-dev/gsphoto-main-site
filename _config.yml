@@ -12,7 +12,7 @@ presskit_download_link                    : https://gsphoto.solomic.com/assets/g
 app_icon                                  : assets/gsphoto_icon.png  # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Save time, Improve Productivity
+app_description                           : Google Drive users: want to save your photos directly to Google Drive with address information? This is the app for you.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
